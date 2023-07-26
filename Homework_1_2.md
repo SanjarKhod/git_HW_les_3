@@ -12,4 +12,6 @@
 
 ## git branch - посмотреть список веток в репозитории
 
-## git branch <name> - создание новой ветки
+## git branch "name" - создание новой ветки
+
+## git checkout <treename> - переход к другой ветке
